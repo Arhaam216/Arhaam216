@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Arhaam216
+- 👀 building my own os
+- 🌱 python
+- 💞️ I’m looking to collaborate on ...
+- 📫 arhaamxxz@gmail.com
+- ⚡ Fun fact: im 12
